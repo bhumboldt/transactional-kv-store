@@ -1,0 +1,23 @@
+{
+  "name": "transactional-kv-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhumboldt/transactional-kv-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhumboldt/transactional-kv-store/issues"
+  },
+  "homepage": "https://github.com/bhumboldt/transactional-kv-store#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
+}
